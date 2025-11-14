@@ -1,6 +1,6 @@
 # WanderLust Web Application
 
-A full‑stack Airbnb‑style rental platform built using **Node.js**, **Express**, **MongoDB**, and **EJS**, supporting secure authentication, CRUD operations, image uploads, interactive maps, and responsive UI. This project demonstrates modern web development practices and scalable backend architecture with clean code structure.
+A full‑stack Airbnb‑style rental platform built using **Node.js**, **Express**, **MongoDB**, and **EJS**, supporting secure authentication, CRUD operations, image uploads and responsive UI. This project demonstrates modern web development practices and scalable backend architecture with clean code structure.
 
 ---
 
