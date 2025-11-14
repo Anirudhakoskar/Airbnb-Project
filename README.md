@@ -4,20 +4,6 @@ A full‑stack Airbnb‑style rental platform built using **Node.js**, **Express
 
 ---
 
-
-📸 Project Screenshots
-
-Create a folder named /screenshots in your repo and add the images with the names below.
-
-🏠 Home Page
-<p align="center"> <img src="./screenshots/homepage.png" width="800"> </p>
-📝 Sign Up Page
-<p align="center"> <img src="./screenshots/signup.png" width="800"> </p>
-🔐 Login Page
-<p align="center"> <img src="./screenshots/login.png" width="800"> </p>
-➕ Create Listing Page
-<p align="center"> <img src="./screenshots/create-listing.png" width="800"> </p>
-
 ## 🚀 Tech Stack
 
 ### **Frontend**
